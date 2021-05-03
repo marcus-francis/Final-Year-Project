@@ -9,5 +9,7 @@ These extra steps will allow the thought process of the coding process to be mor
 R code is used for graph production and statistical analysis
 
 Testing parsing.py allows for parsing of archaeal and bacterial datasets
+
 Human examinations.py parses human genomes
+
 Human binning.py places combined human genomes into bins
