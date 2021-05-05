@@ -24,6 +24,7 @@ data1 <- read.csv(i, header = TRUE, fill = TRUE)
 GC3.inR <- unlist(data1$GlobalGC3)
 
 #The columns containing the the stop codon usage are known  
+#Stop codon usage against GC3
 
 for (j in c(7: 9)) {
 
