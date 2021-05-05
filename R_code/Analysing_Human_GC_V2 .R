@@ -1,3 +1,4 @@
+#This script produces a set of graphs comparing GC3 and stop codon usage and a table of Spearman's rank coefficients
 #Location of file is set
 #The folder contains 1 CSV file with the raw data
 
